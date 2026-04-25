@@ -4,7 +4,7 @@
             "name": "PROS Project",
             "includePath": [
                 "${workspaceFolder}/**",
-                "c:\\6121E_override2627/include"
+                "c:\\6121E_override2627\\include"
             ],
             "defines": [
                 "_DEBUG",

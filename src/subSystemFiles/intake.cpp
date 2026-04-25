@@ -1,5 +1,6 @@
 #include "main.h"
 #include "pros/misc.h"
+#include <globals.hpp>
 
 bool sortToggle = false;
 int intakeState = 0;

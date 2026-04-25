@@ -4,6 +4,8 @@
 #include "pros/motors.hpp"
 #include<bits/stdc++.h>
 #include "subSystemHeaders/globals.hpp"
+#include "subSystemHeaders/climb.hpp"
+
 /////
 // For installation, upgrading, documentations, and tutorials, check out our website!
 // https://ez-robotics.github.io/EZ-Template/
