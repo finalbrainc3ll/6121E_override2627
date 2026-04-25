@@ -1,5 +1,9 @@
 #include "main.h"
-
+#include "pros/misc.h"
+#include "pros/motors.h"
+#include "pros/motors.hpp"
+#include<bits/stdc++.h>
+#include "subSystemHeaders/globals.hpp"
 /////
 // For installation, upgrading, documentations, and tutorials, check out our website!
 // https://ez-robotics.github.io/EZ-Template/
