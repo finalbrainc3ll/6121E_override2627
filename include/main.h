@@ -35,6 +35,7 @@
 #define PROS_USE_LITERALS
 
 #include "api.h"
+#include "lemlib/api.hpp"
 
 /**
  * You should add more #includes here
@@ -60,7 +61,7 @@
 // using namespace pros::literals;
 // using namespace okapi;
 // using namespace ez;
-using namespace okapi::literals;
+// using namespace okapi::literals;
 
 /**
  * Prototypes for the competition control tasks are redefined here to ensure
